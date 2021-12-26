@@ -1,0 +1,59 @@
+[33mcommit c1c0047993601d0a7f4261749c06702a39e73d28[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: karina <kaah.eichherr@gmail.com>
+Date:   Sun Dec 26 12:00:18 2021 -0300
+
+    Mudando nome do curso de Ansible
+
+[33mcommit 2d347d142f92c2829022186291b49fe0daf0eec7[m[33m ([m[1;31mlocal/master[m[33m)[m
+Author: Karina <kaah.eichherr@gmail.com>
+Date:   Sun Dec 26 11:46:32 2021 -0300
+
+    Adicionando Kubernets e corrigindo curso de Vagrant
+
+[33mcommit cb8850f513127d9f0c38c6a3ffd8d0e0f41de2e3[m
+Author: Karina <kaah.eichherr@gmail.com>
+Date:   Sun Dec 26 10:49:31 2021 -0300
+
+    Corrigindo nome do curso de Docker
+
+[33mcommit dbd1810f04eb5786c6cbd5d1fe43ae7e729bb901[m[33m ([m[1;32mtitulo[m[33m)[m
+Author: Karina <kaah.eichherr@gmail.com>
+Date:   Sun Dec 26 10:56:34 2021 -0300
+
+    De com letra maiúscula
+
+[33mcommit 8a0f8e39f417e924298a201bd875366a84579366[m
+Author: Karina <kaah.eichherr@gmail.com>
+Date:   Sun Dec 26 10:40:32 2021 -0300
+
+    Aletrando título Lista
+
+[33mcommit b9bbf9e87c1666a50bb9972ecb84a1e25faab3f4[m
+Author: Karina <kaah.eichherr@gmail.com>
+Date:   Sun Dec 26 10:37:16 2021 -0300
+
+    Alterando título da página
+
+[33mcommit 1269c9494d2214b54cba51eabb692a0380ee0b27[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Karina <kaah.eichherr@gmail.com>
+Date:   Wed Dec 22 19:41:07 2021 -0300
+
+    Renomeando curso de Intregacao Continua
+
+[33mcommit 1d58296a12c9f60d589cb2c83168cea58e753514[m
+Author: Karina <kaah.eichherr@gmail.com>
+Date:   Wed Dec 22 19:25:06 2021 -0300
+
+    Adicionando .gitignore
+
+[33mcommit 6285b5c588f36a0a278362918038f287d1de45df[m
+Author: Karina <kaah.eichherr@gmail.com>
+Date:   Wed Dec 22 19:23:10 2021 -0300
+
+    Acento adicionado no curso de Intregacao Continua
+
+[33mcommit d161f76deade1517ffce51e03f7e617e247d997f[m
+Author: Karina <kaah.eichherr@gmail.com>
+Date:   Wed Dec 22 19:20:23 2021 -0300
+
+    Criando arquivo index.html com lista de cursos
